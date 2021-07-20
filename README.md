@@ -1,4 +1,4 @@
-#### You can view the project at :- https://breaking-bad-ap.herokuapp.com/
+#### The project is deployed at :- https://breaking-bad-ap.herokuapp.com/
 
 # Getting Started with Create React App
 
